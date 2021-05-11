@@ -18,10 +18,10 @@ import org.greenrobot.eventbus.Subscribe;
  *     author : TaoWang
  *     e-mail : watayouxiang@qq.com
  *     time   : 2021/05/11
- *     desc   : 自定义长连接请求以及响应示例代码
+ *     desc   : 自定义长连接请求以及响应
  * </pre>
  */
-public class MyApiDemoActivity extends Activity {
+public class NewApiActivity extends Activity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
